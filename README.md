@@ -6,8 +6,7 @@
     <a href='https://github.com/Gabriel-gif-hub'>
     <img width='50%' height="180cm" src="https://github-readme-stats.vercel.app/api?username=Gabriel-gif-hub&show_icons=true&theme=dracula&include_all_commits=true&count_ptivate_true">
     <img width='39%' height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-gif-hub&layout=compact&langs_count=16&theme=dracula">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-gif-hub&theme=blue-green">
-    
+
 </div>
 
 ### Hard Skills
@@ -30,3 +29,7 @@
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)
 ![GIT](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)
+
+### Estudando nesse momento
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
