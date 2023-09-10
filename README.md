@@ -19,8 +19,7 @@
 
 
 <a href="https://www.linkedin.com/in/gabriel-oliveira-lima-72412a1aa/" target='_blank'><img heigth='195px' src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://github.com/Gabriel-gif-hub" target='_blank'><img heigth='195px' src="	https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-">
+<a href="https://github.com/Gabriel-gif-hub" target='_blank'><img heigth='195px' src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117">
 
 ### Ferramentas
 
