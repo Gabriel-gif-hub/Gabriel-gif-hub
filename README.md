@@ -17,4 +17,4 @@ https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascri
 ### Redes Sociais
 
 
-<a href="https://www.linkedin.com/in/gabriel-oliveira-lima-72412a1aa/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/gabriel-oliveira-lima-72412a1aa/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
